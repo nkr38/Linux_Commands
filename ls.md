@@ -6,8 +6,7 @@ $ ls [options] [file|dir]
 
 🔸 *ls -a	        list all files including hidden file starting with '.'<br>
 🔸 ls --color	    colored list [=always/never/auto]<br>
-🔸 ls -d	        list directories - with ' */'<br>
-🔸 ls -F	        add one char of */=>@| to enteries<br>
+🔸 ls -d	        list directories
 🔸 ls -i	        list file's inode index number<br>
 🔸 ls -l	        list with long format - show permissions<br>
 🔸 ls -la	        list long format including hidden files<br>
