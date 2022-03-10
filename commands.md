@@ -1,4 +1,4 @@
-### ls syntax
+## ls
 **ls commands** ``` $ ls [options] [file|dir] ```
 ```
 🔸 ls -a	        list all files including hidden file starting with '.'
@@ -16,7 +16,7 @@
 🔸 ls -t	        sort by time & date
 🔸 ls -X	        sort by extension name
 ```
-### grep syntax
+## grep
 **grep commands** ``` grep [options] pattern [files] ```
 ```
 🔸 grep -c       This prints only a count of the lines that match a pattern
