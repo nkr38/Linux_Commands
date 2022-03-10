@@ -3,7 +3,6 @@
 $ ls [options] [file|dir]
 ```
 ### ls commands
-
 🔸 *ls -a	        list all files including hidden file starting with '.'<br>
 🔸 ls --color	    colored list [=always/never/auto]<br>
 🔸 ls -d	        list directories<br>
