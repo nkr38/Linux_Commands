@@ -1,14 +1,15 @@
-###ls syntax
+### ls syntax
 ```
 $ ls [options] [file|dir]
 ```
-####ls commands
-🔸 ls -a	        list all files including hidden file starting with '.'
-🔸 ls --color	    colored list [=always/never/auto]
-🔸 ls -d	        list directories - with ' */'
-🔸 ls -F	        add one char of */=>@| to enteries
-🔸 ls -i	        list file's inode index number
-🔸 ls -l	        list with long format - show permissions
+#### ls commands
+
+🔸 ls -a	        list all files including hidden file starting with '.'<br>
+🔸 ls --color	    colored list [=always/never/auto]<br>
+🔸 ls -d	        list directories - with ' */'<br>
+🔸 ls -F	        add one char of */=>@| to enteries<br>
+🔸 ls -i	        list file's inode index number<br>
+🔸 ls -l	        list with long format - show permissions<br>
 🔸 ls -la	        list long format including hidden files
 🔸 ls -lh	        list long format with readable file size
 🔸 ls -ls	        list with long format with file size
