@@ -19,7 +19,7 @@
 ## grep
 **grep commands** ``` grep [options] pattern [files] ```
 ```
-🔸 grep -c       This prints only a count of the lines that match a pattern
+🔸 grep -c        This prints only a count of the lines that match a pattern
 🔸 grep -h        Display the matched lines, but do not display the filenames.
 🔸 grep -i        Ignores, case for matching
 🔸 grep -l        Displays list of a filenames only.
