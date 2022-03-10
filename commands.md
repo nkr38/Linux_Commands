@@ -41,5 +41,5 @@
 🔸 $              Acts like a special character and matches at the end of the regular exp 
 🔸 .              Matches any single character, even including a new line
 🔸 *              Matches the sequence of zero or more instances of the previous character
-sed 's/Linux/Unix/'  linuxteck.txt (first occurence in each line)
-sed 's/Linux/Unix/2' linuxteck.txt (Second occurence in each line)
+🔸 sed 's/Linux/Unix/'  linuxteck.txt (first occurence in each line)
+🔸 sed 's/Linux/Unix/2' linuxteck.txt (Second occurence in each line)
