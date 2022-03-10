@@ -4,7 +4,7 @@ $ ls [options] [file|dir]
 ```
 ### ls commands
 
-🔸 ls -a	        list all files including hidden file starting with '.'<br>
+🔸 *ls -a	        list all files including hidden file starting with '.'<br>
 🔸 ls --color	    colored list [=always/never/auto]<br>
 🔸 ls -d	        list directories - with ' */'<br>
 🔸 ls -F	        add one char of */=>@| to enteries<br>
@@ -18,4 +18,4 @@ $ ls [options] [file|dir]
 🔸 ls -s	        list file size<br>
 🔸 ls -S	        sort by file size<br>
 🔸 ls -t	        sort by time & date<br>
-🔸 ls -X	        sort by extension name<br>
+🔸 ls -X	        sort by extension name<br>*
