@@ -30,3 +30,16 @@
 🔸 grep -E        Treats pattern as an extended regular expression (ERE)
 🔸 grep -w        Match whole word      
 ```
+## sed
+**sed commands** ``` sed [option] 'command' [input-file] ```
+```
+🔸 sed '/^$/d'    Remove all whitespace
+🔸 sed 's/Sonday/Sunday/' weekday.txt
+🔸 sed -i         When option, edit source file directly. Also used to ignore case when flag
+🔸 sed -g         Edit every occurence
+🔸 ^              Acts like a special character and matches at the beginning of the regular exp
+🔸 $              Acts like a special character and matches at the end of the regular exp 
+🔸 .              Matches any single character, even including a new line
+🔸 *              Matches the sequence of zero or more instances of the previous character
+sed 's/Linux/Unix/'  linuxteck.txt (first occurence in each line)
+sed 's/Linux/Unix/2' linuxteck.txt (Second occurence in each line)
