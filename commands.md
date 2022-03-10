@@ -1,4 +1,4 @@
-###ls syntax
+### ls syntax
 
 $ ls [options] [file|dir]
 
@@ -19,7 +19,7 @@ $ ls [options] [file|dir]
 🔸 ls -t	        sort by time & date
 🔸 ls -X	        sort by extension name
 ```
-###grep syntax
+### grep syntax
 ```
 grep [options] pattern [files]
 ```
