@@ -43,3 +43,8 @@
 🔸 *              Matches the sequence of zero or more instances of the previous character
 🔸 sed 's/Linux/Unix/'  linuxteck.txt (first occurence in each line)
 🔸 sed 's/Linux/Unix/2' linuxteck.txt (Second occurence in each line)
+
+## sort
+**sort commands** ``` sort [OPTION]... [FILE]... ```
+```
+🔸 sort -b --ignore-leading-blanks    Remove all whitespace
