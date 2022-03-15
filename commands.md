@@ -47,10 +47,10 @@
 ## sort
 **sort commands** ``` sort [OPTION]... [FILE]... ```
 ```
-🔸 sort -b --ignore-leading-blanks    Remove all whitespace
-🔸 sort -d --dictionary-order	        Consider only blanks and alphanumeric characters
-🔸 sort -f --ignore-case	            Fold lower case to upper case characters
-🔸 sort -g                            Compare according to general numerical value
-🔸 sort -i                            Consider only printable characters
-🔸 sort -n                            Compare according to string numerical value
+🔸 sort -b        Remove all whitespace
+🔸 sort -d	      Consider only blanks and alphanumeric characters
+🔸 sort -f        Fold lower case to upper case characters
+🔸 sort -g        Compare according to general numerical value
+🔸 sort -i        Consider only printable characters
+🔸 sort -n        Compare according to string numerical value
 ```
