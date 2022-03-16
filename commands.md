@@ -54,3 +54,9 @@
 🔸 sort -i        Consider only printable characters
 🔸 sort -n        Compare according to string numerical value
 ```
+## head/tail
+**sort commands** ``` head [OPTION]... [FILE]... ```
+```
+🔸 head -n #      Print number of lines from top down
+🔸 tail -#        prints last # of elements (lines/files)
+```
