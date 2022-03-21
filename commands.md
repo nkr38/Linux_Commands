@@ -20,13 +20,13 @@
 **grep commands** ``` grep [options] pattern [files] ```
 ```
 🔸 grep -c        This prints only a count of the lines that match a pattern
-🔸 grep -h        Display the matched lines, but do not display the filenames.
+🔸 grep -h        Display the matched lines, but do not display the filenames
 🔸 grep -i        Ignores, case for matching
-🔸 grep -l        Displays list of a filenames only.
+🔸 grep -l        Displays list of a filenames only
 🔸 grep -n        Display the matched lines and their line numbers.
 🔸 grep -v        This prints out all the lines that do not matches the pattern
-🔸 grep -e exp    Specifies expression with this option. Can use multiple times.
-🔸 grep -f file   Takes patterns from file, one per line.
+🔸 grep -e exp    Specifies expression with this option. Can use multiple times
+🔸 grep -f file   Takes patterns from file, one per line
 🔸 grep -E        Treats pattern as an extended regular expression (ERE)
 🔸 grep -w        Match whole word      
 ```
