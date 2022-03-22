@@ -14,8 +14,8 @@
 🔸 man "command"              displays the manual for the command specified. Useful to find options for the command quickly
 🔸 history                    shows the commands you've entered
 🔸 ctrl+c                     quits you out of most programs
-🔸 |                          this symbol is called "pipe" and is used to feed output of one command into another command without storing it into a variable 
-(ex: "ls -s | head -5" takes the list of files ordered by size from ls and prints the top 5 of them)
+🔸 |                          this symbol is called "pipe" and is used to feed output of one command into another command without 
+storing it into a variable (ex: "ls -s | head -5" takes the list of files ordered by size from ls and prints the top 5 of them)
 
 ```
 ## ls
