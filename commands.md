@@ -1,3 +1,21 @@
+## Basic misc commands
+```
+🔸 cd /directory              moves the present working directory to one specified
+🔸 cp /copied_item /target    copies a filed or directory to a target directory. If your copying a directory use cp -rf . .
+🔸 pwd                        shows the absolute path of where you are (present working directory)
+🔸 chmod ### file             how you give or remove access to files. first digit is you, second is group and last is all users (read=4,write=2,execute=1. ex: use 777 for full access to everyone)
+🔸 diff /file /file           outputs the lines that do not match between the two files
+🔸 rm file                    remove command lets you remove a file. If your removing a directory use the option -rf (ex: rm -rf dir)
+🔸 mkdir directoryname        makes a directory with the name specified
+🔸 touch filename             makes a file with the name specified
+🔸 mv file file               lets you move a file somewhere else and is also used to rename files
+🔸 cat file                   displays the text of a file
+🔸 man "command"              displays the manual for the command specified. Useful to find options for the command quickly
+🔸 history                    shows the commands you've entered
+🔸 ctrl+c                     quits you out of most programs
+🔸 |                          this symbol is called "pipe" and is used to feed output of one command into another command without storing it into a variable (ex: "ls -s | head -5" takes the list of files ordered by size from ls and prints the top 5 of them)
+
+```
 ## ls
 **ls commands** ``` $ ls [options] [file|dir] ```
 ```
