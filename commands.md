@@ -6,7 +6,7 @@
 🔸 chmod ### file             how you give or remove access to files. first digit is you, second is group and last is all users 
 (read=4,write=2,execute=1. ex: use 777 for full access to everyone)
 🔸 diff /file /file           outputs the lines that do not match between the two files
-🔸 rm file                    remove command lets you remove a file. If your removing a directory use the option -rf (ex: rm -rf dir)
+🔸 rm file                    remove command lets you remove a file. Removing a directory requires -rf (ex: rm -rf dir)
 🔸 mkdir directoryname        makes a directory with the name specified
 🔸 touch filename             makes a file with the name specified
 🔸 mv file file               lets you move a file somewhere else and is also used to rename files
