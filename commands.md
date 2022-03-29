@@ -43,7 +43,7 @@ storing it into a variable (ex: "ls -s | head -5" takes the list of files ordere
 🔸 grep -h        Display the matched lines, but do not display the filenames
 🔸 grep -i        Ignores, case for matching
 🔸 grep -l        Displays list of a filenames only
-🔸 grep -n        Display the matched lines and their line numbers.
+🔸 grep -n        Display the matched lines and their line numbers
 🔸 grep -v        This prints out all the lines that do not matches the pattern
 🔸 grep -e exp    Specifies expression with this option. Can use multiple times
 🔸 grep -f file   Takes patterns from file, one per line
